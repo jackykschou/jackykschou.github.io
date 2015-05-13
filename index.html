@@ -1,10 +1,17 @@
 <html>
     <head></head>
-    <body>
-        <marquee behavior="scroll" bgcolor="yellow" loop="-1" width="30%"><i><font color="blue"><strong>Welcome</strong> Today's date is : </font></i></marquee>
-    </body>
     <script language="javascript">
 	 	var today = new Date();
- 		document.write(today);
+ 		document.write(today.getUTCFullYear());
+ 		document.write("|");
+ 		document.write(today.getUTCMonth() + 1);
+ 		document.write("|");
+ 		document.write(today.getUTCDate());
+ 		document.write("|");
+ 		document.write(today.getUTCHours());
+ 		document.write("|");
+ 		document.write(today.getUTCMinutes());
+ 		document.write("|");
+ 		document.write(today.getUTCSeconds());
  	</script>
 </html>
