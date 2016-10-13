@@ -1,30 +1,30 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="jackykschou.github.io" resolutions="1x" timestamp="1476374886942">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="storefriendlygames.com" resolutions="1x" timestamp="1476379734472">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-__.css" crc="399608788" ref="index:about-us:projects:works:partner:team"/>
+    <file name="master_a-__.css" crc="399608788" ref="index:about-us:planned-projects:works:partners:team"/>
     <file name="index.css" crc="340699539" ref="index"/>
     <file name="about-us.css" crc="4131081508" ref="about-us"/>
-    <file name="projects.css" crc="285217329" ref="projects"/>
+    <file name="planned-projects.css" crc="285217329" ref="planned-projects"/>
     <file name="works.css" crc="504678345" ref="works"/>
-    <file name="partner.css" crc="3853513729" ref="partner"/>
+    <file name="partners.css" crc="3853513729" ref="partners"/>
     <file name="team.css" crc="174137637" ref="team"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:team:works:partner:projects"/>
-    <file name="museutils.js" crc="183364071" ref="index:about-us:team:works:partner:projects"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:team:works:partners:planned-projects"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:team:works:partner:projects"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:team:works:partner:projects"/>
-    <file name="webpro.js" crc="3803554875" ref="index:about-us:team:works:partner:projects"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="index:about-us:team:works:partner:projects"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:team:works:partner:projects"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:team:works:partners:planned-projects"/>
     <file name="musewpslideshow.js" crc="242596657" ref="works"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="works"/>
     <file name="touchswipe.js" crc="4038331989" ref="works"/>
   </folder>
   <folder name="images">
-    <file name="haitangguo.png" crc="4260343628" seo="true" ref="index:about-us:team:works:partner:projects"/>
-    <file name="menu-2.png" crc="36146429" seo="true" ref="index:about-us:team:works:partner:projects"/>
+    <file name="haitangguo.png" crc="4260343628" seo="true" ref="index:about-us:team:works:partners:planned-projects"/>
+    <file name="menu-2.png" crc="36146429" seo="true" ref="index:about-us:team:works:partners:planned-projects"/>
     <file name="visualeditor_-_icon_-_menusvg.png" crc="383144915" ref="index"/>
     <file name="multiplication-symbol-icon-0910125830.png" crc="3803265032" ref="index"/>
     <file name="u106-7.png" crc="3907829252" ref="index"/>
@@ -35,9 +35,9 @@
     <file name="video-camera.png" crc="3844996801" seo="true" ref="index:works"/>
     <file name="u335-6.png" crc="280610293" ref="index"/>
     <file name="u262.png" crc="3939589143" ref="index"/>
-    <file name="handshake.png" crc="159889902" seo="true" ref="index:partner"/>
+    <file name="handshake.png" crc="159889902" seo="true" ref="index:partners"/>
     <file name="u348-5.png" crc="307964372" ref="index"/>
-    <file name="clapboard.png" crc="4073304659" seo="true" ref="index:projects"/>
+    <file name="clapboard.png" crc="4073304659" seo="true" ref="index:planned-projects"/>
     <file name="u356-5.png" crc="31134342" ref="index"/>
     <file name="photo-1458053688450-eef5d21d43b3.jpg" crc="4155279309" seo="true" ref="index"/>
     <file name="u263.png" crc="4053529383" ref="index"/>
@@ -84,34 +84,34 @@
     <file name="螢幕快照 2016-10-13 上午31700-crop-u1056.jpg" crc="4046420673" ref="works"/>
     <file name="螢幕快照 2016-10-13 上午31709-crop-u1047.jpg" crc="4021290847" ref="works"/>
     <file name="loading.gif" crc="3815509949" ref="works"/>
-    <file name="u1139-5.png" crc="149953302" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午122945.jpg" crc="144987415" seo="true" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午123425.jpg" crc="142138726" seo="true" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午123430.jpg" crc="27617393" seo="true" ref="partner"/>
-    <file name="u1217-5.png" crc="3890621778" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午124052.jpg" crc="171871508" seo="true" ref="partner"/>
-    <file name="u1248-16.png" crc="374071646" ref="partner"/>
-    <file name="u1238-4.png" crc="1432143" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午124505.jpg" crc="4044297716" seo="true" ref="partner"/>
-    <file name="u1250-14.png" crc="4242161343" ref="partner"/>
-    <file name="u1252-4.png" crc="3883595598" ref="partner"/>
-    <file name="螢幕快照 2016-10-13 下午125246.jpg" crc="437085432" seo="true" ref="partner"/>
-    <file name="u1254-12.png" crc="4074883699" ref="partner"/>
-    <file name="u1218-8.png" crc="191540929" ref="partner"/>
-    <file name="u1241-8.png" crc="50079536" ref="partner"/>
-    <file name="u1253-6.png" crc="4169538376" ref="partner"/>
-    <file name="u1301-5.png" crc="31134342" ref="projects"/>
-    <file name="u1306-4.png" crc="477556035" ref="projects"/>
-    <file name="u1331-24.png" crc="134047996" ref="projects"/>
-    <file name="螢幕快照 2016-10-13 下午11030.jpg" crc="4043789649" seo="true" ref="projects"/>
-    <file name="u1342-4.png" crc="4018020755" ref="projects"/>
-    <file name="u1345-16.png" crc="3966751348" ref="projects"/>
-    <file name="螢幕快照 2016-10-13 下午11845.jpg" crc="3870470624" seo="true" ref="projects"/>
+    <file name="u1139-5.png" crc="149953302" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午122945.jpg" crc="144987415" seo="true" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午123425.jpg" crc="142138726" seo="true" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午123430.jpg" crc="27617393" seo="true" ref="partners"/>
+    <file name="u1217-5.png" crc="3890621778" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午124052.jpg" crc="171871508" seo="true" ref="partners"/>
+    <file name="u1248-16.png" crc="374071646" ref="partners"/>
+    <file name="u1238-4.png" crc="1432143" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午124505.jpg" crc="4044297716" seo="true" ref="partners"/>
+    <file name="u1250-14.png" crc="4242161343" ref="partners"/>
+    <file name="u1252-4.png" crc="3883595598" ref="partners"/>
+    <file name="螢幕快照 2016-10-13 下午125246.jpg" crc="437085432" seo="true" ref="partners"/>
+    <file name="u1254-12.png" crc="4074883699" ref="partners"/>
+    <file name="u1218-8.png" crc="191540929" ref="partners"/>
+    <file name="u1241-8.png" crc="50079536" ref="partners"/>
+    <file name="u1253-6.png" crc="4169538376" ref="partners"/>
+    <file name="u1301-5.png" crc="31134342" ref="planned-projects"/>
+    <file name="u1306-4.png" crc="477556035" ref="planned-projects"/>
+    <file name="u1331-24.png" crc="134047996" ref="planned-projects"/>
+    <file name="螢幕快照 2016-10-13 下午11030.jpg" crc="4043789649" seo="true" ref="planned-projects"/>
+    <file name="u1342-4.png" crc="4018020755" ref="planned-projects"/>
+    <file name="u1345-16.png" crc="3966751348" ref="planned-projects"/>
+    <file name="螢幕快照 2016-10-13 下午11845.jpg" crc="3870470624" seo="true" ref="planned-projects"/>
   </folder>
-  <file name="index.html" crc="4160586950" seo="true" mt="1476374718195" redirect="true"/>
-  <file name="about-us.html" crc="4218022983" seo="true" mt="1476374718194" redirect="true"/>
-  <file name="team.html" crc="3926015562" seo="true" mt="1476374718194" redirect="true"/>
-  <file name="works.html" crc="4184458778" seo="true" mt="1476374718194" redirect="true"/>
-  <file name="partner.html" crc="4013119686" seo="true" mt="1476374718194" redirect="true"/>
-  <file name="projects.html" crc="162671133" seo="true" mt="1476374718197" redirect="true"/>
+  <file name="index.html" crc="297004555" seo="true" mt="1476379266547" redirect="true"/>
+  <file name="about-us.html" crc="79046985" seo="true" mt="1476379266547" redirect="true"/>
+  <file name="team.html" crc="258739376" seo="true" mt="1476379266547" redirect="true"/>
+  <file name="works.html" crc="3971637765" seo="true" mt="1476379266547" redirect="true"/>
+  <file name="partners.html" crc="341252963" seo="true" mt="1476379266547" redirect="true"/>
+  <file name="planned-projects.html" crc="3890173082" seo="true" mt="1476379266547" redirect="true"/>
 </manifest>
